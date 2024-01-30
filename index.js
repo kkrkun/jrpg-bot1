@@ -104,4 +104,4 @@ client.on("messageCreate", async (message) => {
   }
 });
 
-client.login("MTA3Nzk0OTYyNTAxODg5MjMzOA.Gw51Io.AoQvtvk9o_dXTk8SMys653_wTYZgn7h3lHESJ8");
+client.login("TOKEN");
