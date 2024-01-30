@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "dependencies": {
+    "types-registry": "^0.1.681"
+  },
+  "devDependencies": {
+    "@types/busboy": "^1.5.3",
+    "@types/inherits": "0.0.33",
+    "@types/lodash": "^4.14.202",
+    "@types/lodash.snakecase": "^4.1.9",
+    "@types/node": "^20.11.10",
+    "@types/readable-stream": "^4.0.10",
+    "@types/streamsearch": "^1.1.2",
+    "@types/util-deprecate": "^1.0.3",
+    "@types/ws": "^8.5.10"
+  }
+}
